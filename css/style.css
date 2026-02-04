@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Copperplate, Arial, sans-serif;
+  background: #f4f1ec;
+  color: #111;
+}
+
+nav {
+  background: #0a1f3d;
+  padding: 15px;
+}
+
+nav a {
+  color: #fff;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+section, h1, p {
+  padding: 30px;
+}
